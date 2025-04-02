@@ -308,3 +308,5 @@ If you use this in your research, please cite the paper:
   year={2023}
 }
 ```
+## Additional Notes
+Triggering a new workflow run to build TranscriptionApp.exe.
